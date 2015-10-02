@@ -20,6 +20,7 @@ draw_dots_continent <- function(df){
   #plot the continents multifigure
   p <- ggplot(data=df,aes(x=year,y=lifeExp, color=country))+
        geom_point(aes(color=continent)) 
+$the facet_grid
       facet_grid(.~continent)  
   print(p)
 }
