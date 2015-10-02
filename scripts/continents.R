@@ -4,6 +4,7 @@
 #Version: 0.01
 #creating a vector
 
+#just for test for the Git
 #call the package ggplot2
 #you can check if installed first with a condition before calling
 #the package ggplot2
