@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 #Auther: Shreeti Tuladhar
 #Date: 2nd October, 2015
-#Version: 0.01
+#Version: 0.02
 #creating a vector
 
 #just for test for the Git
