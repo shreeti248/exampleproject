@@ -3,6 +3,8 @@
 #Date: 2nd October, 2015
 #Version: 0.02
 #creating a vector
+# SOME CHANGES MADE BY NATHAN ~~~~
+
 
 #just for test for the Git
 #call the package ggplot2
